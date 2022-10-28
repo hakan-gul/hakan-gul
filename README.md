@@ -77,8 +77,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hakan-gul&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-gul&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
