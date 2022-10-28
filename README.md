@@ -76,5 +76,6 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=hakan-gul&show_icons=true&count_private=true&hide_border=true" align="center" />  
+<br/>  
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-gul&hide_border=true&layout=compact" align="center" /></div>  
